@@ -1,0 +1,12 @@
+[
+  { "code": "5411", "category": "Groceries",   "description": "Grocery Stores, Supermarkets" },
+  { "code": "5812", "category": "Restaurants", "description": "Eating Places, Restaurants" },
+  { "code": "5814", "category": "Fast Food",   "description": "Fast Food Restaurants" },
+  { "code": "5999", "category": "Retail",      "description": "Miscellaneous Retail" },
+  { "code": "4814", "category": "Telecom",     "description": "Telecommunication Services" },
+  { "code": "4111", "category": "Transport",   "description": "Transportation" },
+  { "code": "5912", "category": "Pharmacy",    "description": "Drug Stores, Pharmacies" },
+  { "code": "7011", "category": "Travel",      "description": "Hotels, Motels" },
+  { "code": "5541", "category": "Fuel",        "description": "Service Stations" },
+  { "code": "5732", "category": "Electronics", "description": "Electronics Stores" }
+]
